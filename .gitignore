@@ -1,7 +1,7 @@
 # 独自追加
 test_data/*.avi
 output/
-test_data/*.MOV
+# test_data/*.MOV
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
